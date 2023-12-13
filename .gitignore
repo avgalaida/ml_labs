@@ -2,3 +2,19 @@
 Lab5 (nlp)/.DS_Store
 Lab3 (rnn audio classify)/.DS_Store
 *.pyc
+Lab1 (перцептрон)/.DS_Store
+Lab1 (перцептрон)/data/test/5_Real.png
+Lab1 (перцептрон)/data/test/6_Real.png
+Lab1 (перцептрон)/data/test/7_2_Paint.png
+Lab1 (перцептрон)/data/test/7_Paint.png
+Lab1 (перцептрон)/data/test/9_Real.png
+Lab1 (перцептрон)/models/cnn1.pth
+Lab1 (перцептрон)/models/cnn2.pth
+Lab1 (перцептрон)/models/fcnn1.pth
+Lab1 (перцептрон)/models/model1.pth
+Lab2 (cnn)/.DS_Store
+Lab2 (cnn)/datasets/.DS_Store
+Lab4 (semantic segmentation)/.DS_Store
+Lab4 (semantic segmentation)/models/checkpoints/DeepLab.pth
+Lab4 (semantic segmentation)/models/checkpoints/FCN.pth
+Lab4 (semantic segmentation)/models/checkpoints/UNet.pth
