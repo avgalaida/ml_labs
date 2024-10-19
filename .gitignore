@@ -1,0 +1,9 @@
+
+.DS_Store
+/Lab1 (перцептрон)/data/test
+/Lab1 (перцептрон)/models
+/Lab3 (rnn audio classify)/components/__pycache__
+/Lab3 (rnn audio classify)/utils/__pycache__
+/Lab4 (semantic segmentation)/models/__pycache__
+/Lab4 (semantic segmentation)/models/checkpoints
+/Lab4 (semantic segmentation)/utils/__pycache__
